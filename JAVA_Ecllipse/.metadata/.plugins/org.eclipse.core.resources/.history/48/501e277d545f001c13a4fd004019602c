@@ -1,0 +1,8 @@
+package finalQuesntion;
+
+public abstract class SpaceCraft {
+	
+	protected String model;
+	
+	
+}

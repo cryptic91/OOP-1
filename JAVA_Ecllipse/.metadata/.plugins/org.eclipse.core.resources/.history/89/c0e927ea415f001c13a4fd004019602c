@@ -1,0 +1,19 @@
+package main;
+
+public class Main {
+	
+	public static void main(String [] args) {
+		
+		Shanto s = new Shanto();
+//		s.setName("Shanto");
+//		s.setAge(21);
+		s.shanton();
+		
+		Asme a = new Asme();
+		a.setName("Asme");
+		a.setAge(21);
+		a.run();
+		
+	}
+
+}

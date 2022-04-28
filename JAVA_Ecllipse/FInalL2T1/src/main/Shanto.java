@@ -1,0 +1,21 @@
+package main;
+
+public class Shanto extends Asme{
+	
+//	private String football;
+//	
+//	public String getFootball() {
+//		return football;
+//	}
+//	public void setFootball(String football) {
+//		this.football = football;
+//	}
+	
+	public void shanton() {
+		run();
+//		System.out.println("My name "+getName());
+//		System.out.println("My age "+getAge());
+		System.out.println();
+	}
+	
+}

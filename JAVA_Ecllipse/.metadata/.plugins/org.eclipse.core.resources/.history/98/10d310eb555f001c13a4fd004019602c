@@ -1,0 +1,16 @@
+package finalQuesntion;
+
+public class Apollo extends SpaceCraft implements Drive,Shuttle{
+
+	
+	private int nowheel;
+	
+	public Apollo (int nowheel) {
+		this.nowheel = nowheel;
+	}
+	
+	public static void main (String [] args) {
+		
+	}
+	
+}

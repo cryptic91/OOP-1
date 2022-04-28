@@ -1,0 +1,17 @@
+package encapsulation;
+
+public class Main {
+	
+	public static void main(String [] args) {
+		
+		Shanto s = new Shanto("Rakib","Sam");
+//		s.cricket = "Rohit";
+		s.shanton();
+		
+		Asme a = new Asme();
+		a.setName("Asme");
+		a.run();
+		
+	}
+
+}

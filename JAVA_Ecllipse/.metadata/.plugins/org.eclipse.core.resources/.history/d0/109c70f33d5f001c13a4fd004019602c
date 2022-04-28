@@ -1,0 +1,24 @@
+package encapsulation;
+
+public class Shanto {
+	
+	
+	private String name;
+	private String age;
+	private String football;
+	private String cricket;
+	
+	public Shanto(String football, String cricket) {
+		
+		this.football = football;
+		this.cricket = cricket;
+	}
+
+	public void shanton() {
+		System.out.println("My name is "+football);
+		System.out.println("I love to play football.");
+		System.out.println("Cricketer : "+cricket);
+		System.out.println();
+	}
+	
+}

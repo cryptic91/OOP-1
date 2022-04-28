@@ -1,0 +1,20 @@
+package encapsulation;
+
+public class Shanto {
+	
+	public String football;
+	public String cricket;
+	
+//	public Shanto(String football, String cricket) {
+//		super();
+//		this.football = football;
+//		this.cricket = cricket;
+//	}
+
+	public void shanton() {
+		System.out.println("My name is Shanto.");
+		System.out.println("I love to play football.");
+		System.out.println();
+	}
+	
+}

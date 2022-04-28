@@ -1,0 +1,16 @@
+package main;
+
+public class Asme extends Samsun{
+	
+
+	public String id;
+
+	
+
+	public void run() {
+		System.out.println("My name "+getName());
+		System.out.println("My age "+getAge());
+		System.out.println();
+	}
+	
+}

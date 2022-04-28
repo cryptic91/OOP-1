@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;miniWebBrowser.MiniWebBrowser.java&apos; to &apos;MiniBrowser.java&apos;&#x0D;&#x0A;- Original project: &apos;Projects&apos;&#x0D;&#x0A;- Original element: &apos;miniWebBrowser.MiniWebBrowser.java&apos;&#x0D;&#x0A;- Renamed element: &apos;miniWebBrowser.MiniBrowser.java&apos;" description="Rename compilation unit &apos;MiniWebBrowser.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;miniWebBrowser{MiniWebBrowser.java" name="MiniBrowser.java" references="false" stamp="1638462179310" version="1.0"/>
+</session>

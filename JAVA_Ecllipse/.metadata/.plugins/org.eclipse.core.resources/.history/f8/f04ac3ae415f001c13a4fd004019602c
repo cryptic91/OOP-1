@@ -1,0 +1,23 @@
+package main;
+
+public class Asme extends Samsun{
+	
+
+	private String id;
+
+	public String getId() {
+		return id;
+	}
+
+	public void setId(String id) {
+		this.id = id;
+	}
+	
+
+	public void run() {
+		System.out.println("My name "+getName());
+		System.out.println("My age "+getAge());
+		System.out.println();
+	}
+	
+}

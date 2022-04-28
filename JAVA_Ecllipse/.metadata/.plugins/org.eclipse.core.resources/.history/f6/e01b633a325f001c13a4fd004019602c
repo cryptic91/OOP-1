@@ -1,0 +1,12 @@
+package encapsulation;
+
+public class Asme {
+	
+	public String name;
+	public String id;
+	
+	public void run() {
+		System.out.println("My name is Asme.");
+	}
+	
+}

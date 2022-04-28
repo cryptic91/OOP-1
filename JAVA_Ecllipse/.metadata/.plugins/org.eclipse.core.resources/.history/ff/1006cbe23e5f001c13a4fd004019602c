@@ -1,0 +1,21 @@
+package encapsulation;
+
+public class Shanto extends Samsun{
+	
+	
+	private String football;
+	private String cricket;
+	
+	public Shanto(String football, String cricket) {
+		
+		this.football = football;
+		this.cricket = cricket;
+	}
+
+	public void shanton() {
+		System.out.println("My name is "+football);
+		System.out.println("My name "+name);
+		System.out.println();
+	}
+	
+}
