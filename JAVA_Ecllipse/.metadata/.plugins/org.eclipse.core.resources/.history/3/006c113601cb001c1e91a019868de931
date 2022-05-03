@@ -10,9 +10,9 @@ public class Main {
 		s.shanton();
 		
 		As a = new As();
-		a.setName("Sam");
+		a.setName("Asme");
 		a.setAge(21);
-		a.id = 3000;
+		a.id = 3882;
 		a.exam = "OOP";
 		a.run();
 		a.id = 3871;

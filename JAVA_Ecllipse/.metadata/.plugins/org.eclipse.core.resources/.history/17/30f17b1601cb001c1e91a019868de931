@@ -1,6 +1,6 @@
 package main;
 
-public class Shanto extends As{
+public class Shanto extends Asme{
 	
 //	private String football;
 //	
